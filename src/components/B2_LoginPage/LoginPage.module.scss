@@ -1,0 +1,19 @@
+.loginPage {
+
+  .form {
+    margin-top: 16px;
+
+    .field {
+      &:not(:first-child) {
+        margin-top: 12px;
+      }
+    }
+
+    .btn {
+      margin-top: 12px;
+    }
+
+  }
+
+
+}
